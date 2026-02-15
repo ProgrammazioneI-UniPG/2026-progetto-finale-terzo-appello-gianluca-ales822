@@ -2,11 +2,12 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Gianluca
 
-## Cognome: 
+## Cognome: Urbanelli 
 
-## Matricola:
+## Matricola: 391643
 
 ## Commenti/modifiche al progetto:
 
+Ci sono due nomi con bonus speciali, "UndicivVirgolaCinque" e "Gianluca". Il nome "Gianluca" da 50 in più a tutte le statistiche.
